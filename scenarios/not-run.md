@@ -1,1 +1,2 @@
-CONGRATULATIONS!!!!!!!!!!! You see a hatch and enter it.
+CONGRATULATIONS!!!!!!!!!!! You see a hatch and enter it.  
+[Start Over](../start.md)
