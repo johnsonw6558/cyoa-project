@@ -1,2 +1,3 @@
-You go through the left door and find yourself in a dark room. Something hits your head and  get knocked out.  
+You go through the left door and find yourself in a dark room. Then someone knocked you out.  
+
 [Start Over](../start.md)

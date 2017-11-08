@@ -1,3 +1,5 @@
-You go through the right door. You run and see a bright light in front of you. 
-## [You feel happy and run to the light](run.md)
-## [You don’t run to the path because you believe it a trap](not-run.md)
+## After you went through the right door you ran and saw a bright light in front of you.  
+
+**[You feel excited and run to the light](run.md)**  
+
+**[You don’t run to the light because you believe it a trap](not-run.md)**

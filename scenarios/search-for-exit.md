@@ -1,2 +1,3 @@
-As you try to search, you trip on something which causes you to hit your head and faint  
+As you are searching for an exit in the dark room, you accidentally tripped on something, fell over and hit your head on something and fainted.  
+
 [Start Over](../start.md)
